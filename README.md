@@ -14,8 +14,7 @@ It takes parameters like:
 
 based on this parameters it give an outup of estimated sale price.
 
-
-![](Screen shots/sal1.png)
+![](Screenshots/sal1.png)
 
 
 the model is deployed on heroku 
