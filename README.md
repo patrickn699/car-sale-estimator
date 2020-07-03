@@ -18,6 +18,8 @@ It takes parameters like:
 6) fuel type
 7) transmission type
 
+The model is pretrained and saved in ```car_r.p``` if you wish you can retrain the model.
+
 based on these parameters it give an output of estimated sale price.
 
 NOTE (the black background of screen shot is due to darkmode plugin for you it will be white.)
@@ -43,6 +45,8 @@ The model is deployed on heroku and the gui is made with streamlit.
 4) matplotlib
 
 5) seaborn
+
+
 
 
 
