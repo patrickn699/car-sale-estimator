@@ -12,3 +12,7 @@ It takes parameters like:
 6) fuel type
 7) transmission type
 
+based on this parameters it give an outup of estimated sale price.
+
+the model is deployed on heroku 
+
